@@ -1,6 +1,5 @@
 # Atom1.2
 Roblox Hack Made By: Skemiil
-##################################
 
 
 Atom is a lvl 7 roblox exectutor that comes with lots of fun exploits

@@ -1,0 +1,10 @@
+--[[
+	Weightlifting Simulator 3 Hack
+	By: Skemiil
+	P.S. Have your weight equiped
+]]--
+
+for loop = 1, 999999999 do 
+	game.Players.LocalPlayer['strengthEvent']:FireServer("rep")
+	wait(1.0)
+end
